@@ -22,3 +22,14 @@
     padding-right: 0px;
     padding-left: 0px;
 }
+.margin-top{
+    margin-top: 50px;
+    font-size: 20px;
+}.ratingcolor{
+    background-color: lightgreen;
+    width: 70px;
+    border-radius: 10px;
+}
+.fontweight{
+    color: rgb(199, 199, 199);
+}
